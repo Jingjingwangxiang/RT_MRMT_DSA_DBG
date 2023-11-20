@@ -2,7 +2,7 @@
 
 This code is developed to explore the dynamic biofilm growth and its impact on transport. It was developed based on the previous code RT_MRMT_DSA which can be freely downloaded from https://github.com/Jingjingwangxiang/RT_MRMT_DSA.
 
-It was submitted to Water Resources Research on November 2023, with a manuscript titled "A conceptual model for reactive transport with dynamic biofilm growth in multicontinuum media", you are warmly welcome to visit it through the website ...
+It was submitted to Water Resources Research on November 2023, with a manuscript titled "A fractal model for biofilm growth in porous media", you are warmly welcome to visit it through the website ...
 
 Developer: Jingjing Wang
 
