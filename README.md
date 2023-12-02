@@ -1,8 +1,8 @@
 # RT_MRMT_DSA_DBG
 
-This code is developed to explore the dynamic biofilm growth and its impact on transport. It was developed based on the previous code RT_MRMT_DSA which can be freely downloaded from https://github.com/Jingjingwangxiang/RT_MRMT_DSA.
+This code is developed to explore the dynamic biofilm growth and its impact on transport. It was an adaption of my previous code RT_MRMT_DSA which can be freely downloaded from https://github.com/Jingjingwangxiang/RT_MRMT_DSA.
 
-It was submitted to Water Resources Research on November 2023, with a manuscript titled "A fractal model for biofilm growth in porous media", you are warmly welcome to visit it through the website ...
+It was submitted to Water Resources Research on December 2023, with a manuscript titled "A fractal multirate mass transfer model for biofilm growth in porous media".
 
 Developer: Jingjing Wang
 
@@ -12,7 +12,7 @@ Geosciences Department, Institute of Environmental Assessment and Water Research
 
 Email: jingjingwangxiang@126.com or jingjing.wang.xiang@gmail.com
 
-Year first available: November, 2023
+Year first available: December, 2023
 
 Hardware required: The code was run on a computer with 12th Gen Intel(R) Core(TM) i7-12700KF 3.60 GHz, 32GB Installed memory (RAM), 64-bit Operating System, x64-based processor.
 
